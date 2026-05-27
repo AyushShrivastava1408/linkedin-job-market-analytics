@@ -16,10 +16,6 @@ Analysis of LinkedIn job market trends using SQL, Python, and Power BI.
 - Country-wise hiring insights
 - Interactive Power BI dashboard
 
-## Dashboard Preview
-
-
-
 ## Key Insights
 - SQL and Python are most demanded skills
 - United States has highest hiring demand
